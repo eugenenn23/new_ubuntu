@@ -59,3 +59,4 @@ end=`date +%s`
 runtime=$((end-start))
 echo "runtime         | $runtime"
 
+echo "end"
