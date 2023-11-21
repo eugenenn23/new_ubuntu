@@ -1,1 +1,3 @@
 # new_ubuntu
+
+`curl`
